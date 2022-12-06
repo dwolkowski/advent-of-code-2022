@@ -73,7 +73,7 @@ ___
 ## Part Two
 
 **Content**
-> It seems like there is still quite a bit of duplicate work planned.
+> It seems like there is still quite a bit of duplicate work planned.  
 > Instead, the Elves would like to know the number of pairs that overlap at all.
 
 <details>
